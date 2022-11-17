@@ -96,10 +96,16 @@ function replaceUrls(text) {
 }
 
 Typer.speed = 3;
-Typer.file = 'WmPokal.txt';
+if (task == 0) {
+  Typer.file = 'WmPokal.txt';
+}
+if (task == 1) {
+  Typer.file = 'Task1.txt';
+}
 Typer.init();
 
 var timer = setInterval('t();', 30);
+console.log(task);
 function t() {
   Typer.addText({ keyCode: 123748 });
 

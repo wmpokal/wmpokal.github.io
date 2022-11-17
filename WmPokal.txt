@@ -12,3 +12,10 @@
 
 <br><br>
 <span class="k">KEINE ELTERN!!!</span>
+
+
+<br><br>
+<br><br>
+Zur Sicherheit benötige ich 4 richtig beantwortete Aufgagen, damit ich den aktuellen Standort des Pokals ermitteln kann. <br>
+Kommen wir zur ersten Aufgabe: <br>
+<!-- longlonglongcomment --><a href="task1.html"><strong>Start</strong></a>
