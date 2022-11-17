@@ -6,6 +6,7 @@ var Typer = {
   file: '',
   accessCount: 0,
   deniedCount: 0,
+  answerVisible: 0,
   init: function () {
     accessCountimer = setInterval(function () {
       Typer.updLstChr();
@@ -73,13 +74,51 @@ var Typer = {
   updLstChr: function () {
     var cont = this.content();
 
-    if (cont.substring(cont.length - 1, cont.length) == '|')
-      $('#console').html(
-        $('#console')
-          .html()
-          .substring(0, cont.length - 1),
-      );
-    else this.write('|'); // else write it
+    if (cont.substring(cont.length - 1, cont.length) == '|') {
+      if ($('#answer').length && Typer.answerVisible == 0) {
+        Typer.answerVisible = 1;
+        clearInterval(accessCountimer);
+        $('#answer').focus();
+        $('#answer').select();
+        var input = $("input");
+        input[0].selectionStart = input[0].selectionEnd = input.val().length;
+        $('#answer').on('keypress', function (e) {
+          if(e.which === 13){
+            var val = $(this).val();
+            console.log(task);
+            if (task == 1) {
+              if (val == "Jesùs Corona") {
+                window.location.href = "task2.html";
+              } else {
+                alert(val + " ist falsch!! HA HAA");
+              }
+            }
+            if (task == 2) {
+              if (val == "Makoto Hasebe") {
+                window.location.href = "task3.html";
+              } else {
+                alert(val + " ist falsch!! HA HAA");
+              }
+            }
+            if (task == 3) {
+              if (val == "Shinji Kagawa") {
+                alert(val + " ist richtig. WEITER GEHTS NOCH NICHT");
+              } else {
+                alert(val + " ist falsch!! HA HAA");
+              }
+            }
+          }
+        });
+      }
+      // $('#console').html(
+      //   $('#console')
+      //     .html()
+      //     .substring(0, cont.length - 1),
+      // );
+    }
+    else {
+      this.write('|'); // else write it
+    }
   },
 };
 
@@ -95,17 +134,22 @@ function replaceUrls(text) {
   }
 }
 
-Typer.speed = 3;
+Typer.speed = 4;
 if (task == 0) {
   Typer.file = 'WmPokal.txt';
 }
 if (task == 1) {
   Typer.file = 'Task1.txt';
 }
+if (task == 2) {
+  Typer.file = 'Task2.txt';
+}
+if (task == 3) {
+  Typer.file = 'Task3.txt';
+}
 Typer.init();
 
 var timer = setInterval('t();', 30);
-console.log(task);
 function t() {
   Typer.addText({ keyCode: 123748 });
 

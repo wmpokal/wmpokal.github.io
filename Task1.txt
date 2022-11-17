@@ -1,4 +1,8 @@
-<span id="a">kannstdu@knicken</span>:<span id="b">~</span><span id="c">$</span> start <!-- kjsdfhkjdhsfkjdshfkj -->TASK#1
+<span id="a">anonym@server</span>:<span id="b">~</span><span id="c">$</span> start <!-- kjsdfhkjdhsfkjdshfkj -->TASK#1
 
 <br><br>
-<strong>Jetzt kommt Aufgabe Nummer 1</strong><!-- laglaglaglaglaglaglaglaglaglaglaglag -->
+<strong>Aufgabe Nummer 1</strong><!-- laglaglaglaglaglaglaglaglaglaglaglag --> <br>
+Wie heißt die Nummer 1 im Tor der mexikanischen Nationalmannschaft bei der WM 2014 in Brasilien?
+
+<br><br>
+<span id="a">anonym@server</span>:<span id="b">~</span><span id="c">$</span> <input placeholder="Antwort bitte tippen" type="text" name="answer" id="answer"> <br>

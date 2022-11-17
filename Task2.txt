@@ -1,0 +1,10 @@
+<span id="a">anonym@server</span>:<span id="b">~</span><span id="c">$</span> Richtig! Ha, ha, der arme Kerl, so möchte im Moment keiner heißen!
+<span id="a">anonym@server</span>:<span id="b">~</span><span id="c">$</span> Okay. Das war wohl zu einfach.
+<span id="a">anonym@server</span>:<span id="b">~</span><span id="c">$</span> start <!-- kjsdfhkjdhsfkjdshfkj -->TASK#2
+
+<br><br>
+<strong>Aufgabe Nummer 2</strong><!-- laglaglaglaglaglaglaglaglaglaglaglag --> <br>
+Wir bleiben bei der WM 2014… Welcher japanische Nationalspieler spielt bei Eintracht Frankfurt?
+
+<br><br>
+<span id="a">anonym@server</span>:<span id="b">~</span><span id="c">$</span> <input placeholder="Antwort bitte tippen" type="text" name="answer" id="answer"> <br>

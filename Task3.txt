@@ -1,0 +1,10 @@
+<span id="a">anonym@server</span>:<span id="b">~</span><span id="c">$</span> Krass… 
+<span id="a">anonym@server</span>:<span id="b">~</span><span id="c">$</span> okay…<!-- laglaglaglaglaglaglaglaglaglaglaglag -->
+<span id="a">anonym@server</span>:<span id="b">~</span><span id="c">$</span> start <!-- kjsdfhkjdhsfkjdshfkj -->TASK#3
+
+<br><br>
+<strong>Aufgabe Nummer 3</strong><!-- laglaglaglaglaglaglaglaglaglaglaglag --> <br>
+Welcher japanische Nationalspieler hat lange bei Borussia Dortmund gespielt?
+
+<br><br>
+<span id="a">anonym@server</span>:<span id="b">~</span><span id="c">$</span> <input placeholder="Antwort bitte tippen" type="text" name="answer" id="answer"> <br>

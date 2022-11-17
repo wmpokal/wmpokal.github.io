@@ -1,9 +1,15 @@
-<span id="a">kannstdu@knicken</span>:<span id="b">~</span><span id="c">$</span> cd WmPokal/<!-- kjsdfhkjdhsfkjdshfkj -->GeheimeAkte
-<span id="a">kannstdu@knicken</span>:<span id="b">~</span><span id="c">$</span> start <!-- kjsdfhkjdhsfkjdshfkj -->findedenpokal.app
+<span id="a">anonym@server</span>:<span id="b">~</span><span id="c">$</span> cd WmPokal/<!-- kjsdfhkjdhsfkjdshfkj -->GeheimeAkte
+<span id="a">anonym@server</span>:<span id="b">~</span><span id="c">$</span> start <!-- kjsdfhkjdhsfkjdshfkj -->findedenpokal.app
 
 <br><br>
-<strong>Diese App ist nicht für die Öffentlichkeit gedacht!</strong><!-- laglaglaglaglaglaglaglaglaglaglaglag -->
+HA! HA! HA!<br>
+DANKE FÜR DIE KOHLE!<br><br>
 
+Ich habe euch beobachtet… vier Jungs hat man also engagiert, um den Pokal zu finden… dann müsst ihr verdammt gut sein!<br><br>
+
+Um in Ruhe das Geld zu holen und zu verschwinden, werde ich euch wohl ein bisschen beschäftigen müssen…<br><br>
+
+3 REGELN:
 <br><br>
 <span class="k">KEINE POLIZEI!!</span>
 
@@ -14,6 +20,6 @@
 <span class="k">KEINE ELTERN!!!</span>
 
 <br><br>
-Zur Sicherheit benötige ich 4 richtig beantwortete Aufgagen, damit ich den aktuellen Standort des Pokals ermitteln kann. <br>
-Kommen wir zur ersten Aufgabe: <br>
-<!-- longlonglongcomment --><a href="task1.html"><strong>Start</strong></a>
+Wenn ihr den Pokal finden wollt, müsst ihr euch gut mit Fußball auskennen… oder wissen, wo man suchen muss… oder wen man fragen kann. Ha, ha, ha, ihr habt eh keine Chance; aber versuchen kann man es ja mal. Passt auf… erste Aufgabe: <br>
+<!-- longlonglongcomment -->
+<span id="a">anonym@server</span>:<span id="b">~</span><span id="c">$</span> <a href="task1.html"><strong>Zum Start von Aufgabe 1 klicken</strong></a>

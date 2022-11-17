@@ -46,3 +46,15 @@ a {
     	50% { color:  #0f0; }
     	99% { color: black; }
 }
+
+input {
+	background: black;
+	border: black;
+	color: #0f0;
+	font-family: courier, monospace;
+	font-size:18px;
+	outline: none;
+}
+input:focus {
+	outline: none;
+}
