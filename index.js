@@ -134,7 +134,7 @@ function replaceUrls(text) {
   }
 }
 
-Typer.speed = 4;
+Typer.speed = 1;
 if (task == 0) {
   Typer.file = 'WmPokal.txt';
 }
