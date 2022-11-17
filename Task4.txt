@@ -1,0 +1,14 @@
+<span id="a">anonym@server</span>:<span id="b">~</span><span id="c">$</span> Auch richtig! Ihr seid wirklich gut.
+<span id="a">anonym@server</span>:<span id="b">~</span><span id="c">$</span> Wir rechnen mal ein bisschen…<!-- laglaglaglaglaglaglaglaglaglaglaglag -->
+<span id="a">anonym@server</span>:<span id="b">~</span><span id="c">$</span> weil es so viel Spaß macht. ;-)<!-- laglaglaglaglaglaglaglaglaglaglaglag -->
+<span id="a">anonym@server</span>:<span id="b">~</span><span id="c">$</span> start <!-- kjsdfhkjdhsfkjdshfkj -->TASK#4
+
+<br><br>
+<strong>Aufgabe Nummer 4</strong><!-- laglaglaglaglaglaglaglaglaglaglaglag --> <br>
+Von den drei Spielern, die ihr schon erraten habt, nehmt ihr die 6 Initialen, ermittelt an wievielter Stelle sie im Alphabet stehen und rechnet alles zusammen. <br>
+<span id="a">anonym@server</span>:<span id="b">~</span><span id="c">$</span> Kapiert?<!-- laglaglaglaglaglaglaglaglaglaglaglag -->
+<span id="a">anonym@server</span>:<span id="b">~</span><span id="c">$</span> Und?<!-- laglaglaglaglaglaglaglaglaglaglaglag -->
+<span id="a">anonym@server</span>:<span id="b">~</span><span id="c">$</span> Warum dauert das so lange??<!-- laglaglaglaglaglaglaglaglaglaglaglag -->
+
+<br><br>
+<span id="a">anonym@server</span>:<span id="b">~</span><span id="c">$</span> <input placeholder="Antwort bitte tippen" type="text" name="answer" id="answer"> <br>

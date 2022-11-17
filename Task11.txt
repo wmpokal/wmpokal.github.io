@@ -1,0 +1,5 @@
+<strong>Aufgabe Nummer 9, Frage 3/3</strong><!-- laglaglaglaglaglaglaglaglaglaglaglag --> <br>
+Wer waren die vier Gegner im Endspiel, natürlich wieder in der Reihenfolge:<br>
+
+<br><br>
+<span id="a">anonym@server</span>:<span id="b">~</span><span id="c">$</span> <input placeholder="Antwort bitte tippen" type="text" name="answer" id="answer"> <br>

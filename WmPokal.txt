@@ -24,4 +24,4 @@ Wenn ihr den Pokal finden wollt, müsst ihr euch gut mit Fußball auskennen… o
 <!-- longlonglongcomment -->
 
 <br>
-<span id="a">anonym@server</span>:<span id="b">~</span><span id="c">$</span> <input placeholder="start eingeben und ENTER drücken" type="text" name="answer" id="answer"> <br>
+<span id="a">anonym@server</span>:<span id="b">~</span><span id="c">$</span> <input placeholder="start eingeben und ENTER ↵ drücken" type="text" name="answer" id="answer"> <br>

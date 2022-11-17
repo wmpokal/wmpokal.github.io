@@ -87,7 +87,7 @@ var Typer = {
             var val = $(this).val();
             console.log(task);
             if (task == 0) {
-              if (val == "start") {
+              if (val == "start" || val == "Start") {
                 window.location.href = "task1.html";
               }
             }
@@ -107,7 +107,63 @@ var Typer = {
             }
             if (task == 3) {
               if (val == "Shinji Kagawa") {
-                alert(val + " ist richtig. WEITER GEHTS NOCH NICHT");
+                window.location.href = "task4.html";
+              } else {
+                alert(val + " ist falsch!! HA HAA");
+              }
+            }
+            if (task == 4) {
+              if (val == "64") {
+                window.location.href = "task5.html";
+              } else {
+                alert(val + " ist falsch!! HA HAA");
+              }
+            }
+            if (task == 5) {
+              if (val == "Steve Mandanda") {
+                window.location.href = "task6.html";
+              } else {
+                alert(val + " ist falsch!! HA HAA");
+              }
+            }
+            if (task == 6) {
+              if (val == "Schweiz") {
+                window.location.href = "task7.html";
+              } else {
+                alert(val + " ist falsch!! HA HAA");
+              }
+            }
+            if (task == 7) {
+              if (val == "62") {
+                window.location.href = "task8.html";
+              } else {
+                alert(val + " ist falsch!! HA HAA");
+              }
+            }
+            if (task == 8) {
+              if (val == "2") {
+                window.location.href = "task9.html";
+              } else {
+                alert(val + " ist falsch!! HA HAA");
+              }
+            }
+            if (task == 9) {
+              if (val == "1954,1974,1990,2014" || val == "1954, 1974, 1990, 2014") {
+                window.location.href = "task10.html";
+              } else {
+                alert(val + " ist falsch!! HA HAA");
+              }
+            }
+            if (task == 10) {
+              if (val == "Sepp Herberger,Helmut Schön,Franz Beckenbauer,Joachim Löw" || val == "Sepp Herberger, Helmut Schön, Franz Beckenbauer, Joachim Löw") {
+                window.location.href = "task11.html";
+              } else {
+                alert(val + " ist falsch!! HA HAA");
+              }
+            }
+            if (task == 11) {
+              if (val == "Ungarn,Niederlande,Argentinien,Argentinien" || val == "Ungarn, Niederlande, Argentinien, Argentinien") {
+                window.location.href = "task12.html";
               } else {
                 alert(val + " ist falsch!! HA HAA");
               }
@@ -151,6 +207,30 @@ if (task == 2) {
 }
 if (task == 3) {
   Typer.file = 'Task3.txt';
+}
+if (task == 4) {
+  Typer.file = 'Task4.txt';
+}
+if (task == 5) {
+  Typer.file = 'Task5.txt';
+}
+if (task == 6) {
+  Typer.file = 'Task6.txt';
+}
+if (task == 7) {
+  Typer.file = 'Task7.txt';
+}
+if (task == 8) {
+  Typer.file = 'Task8.txt';
+}
+if (task == 9) {
+  Typer.file = 'Task9.txt';
+}
+if (task == 10) {
+  Typer.file = 'Task10.txt';
+}
+if (task == 11) {
+  Typer.file = 'Task11.txt';
 }
 Typer.init();
 

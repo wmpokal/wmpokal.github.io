@@ -1,0 +1,9 @@
+<span id="a">anonym@server</span>:<span id="b">~</span><span id="c">$</span> Yes! 
+<span id="a">anonym@server</span>:<span id="b">~</span><span id="c">$</span> start <!-- kjsdfhkjdhsfkjdshfkj -->TASK#7
+
+<br><br>
+<strong>Aufgabe Nummer 7</strong><!-- laglaglaglaglaglaglaglaglaglaglaglag --> <br>
+Jetzt nehmt ihr die beiden letzten Antworten, ermittelt wieder, an wievielter Stelle die 3 Anfangsbuchstaben im Alphabet stehen und rechnet zusammen. Und damit das nicht zu langweilig ist, addiert ihr dazu noch, wie viele Buchstaben insgesamt der Name unserer deutschen Nummer 1 im Tor hat.<br>
+
+<br><br>
+<span id="a">anonym@server</span>:<span id="b">~</span><span id="c">$</span> <input placeholder="Antwort bitte tippen" type="text" name="answer" id="answer"> <br>

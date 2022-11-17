@@ -1,0 +1,9 @@
+<span id="a">anonym@server</span>:<span id="b">~</span><span id="c">$</span> Genau. 
+<span id="a">anonym@server</span>:<span id="b">~</span><span id="c">$</span> start <!-- kjsdfhkjdhsfkjdshfkj -->TASK#8
+
+<br><br>
+<strong>Aufgabe Nummer 8</strong><!-- laglaglaglaglaglaglaglaglaglaglaglag --> <br>
+Und die zieht ihr jetzt von der ersten Zahl ab, die ihr notiert habt. Und das ergibt:<br>
+
+<br><br>
+<span id="a">anonym@server</span>:<span id="b">~</span><span id="c">$</span> <input placeholder="Antwort bitte tippen" type="text" name="answer" id="answer"> <br>

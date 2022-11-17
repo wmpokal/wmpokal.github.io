@@ -1,0 +1,5 @@
+<strong>Aufgabe Nummer 9, Frage 2/3</strong><!-- laglaglaglaglaglaglaglaglaglaglaglag --> <br>
+Wie hießen die vier Bundestrainer, mit denen wir gewonnen haben? Auch in der richtigen Reihenfolge:<br>
+
+<br><br>
+<span id="a">anonym@server</span>:<span id="b">~</span><span id="c">$</span> <input placeholder="Antwort bitte tippen" type="text" name="answer" id="answer"> <br>

@@ -1,0 +1,10 @@
+<span id="a">anonym@server</span>:<span id="b">~</span><span id="c">$</span> Korrekt! So, DIE NOTIERT IHR EUCH JETZT MAL!<!-- laglaglaglaglaglagasd asdas dasdasdas asdsdadsdas das as asd asd ad asd ad asd asd asd as aslaglaglaglaglaglag -->
+<span id="a">anonym@server</span>:<span id="b">~</span><span id="c">$</span> Wir gehen zwei Jahre weiter zur EURO 2016.
+<span id="a">anonym@server</span>:<span id="b">~</span><span id="c">$</span> start <!-- kjsdfhkjdhsfkjdshfkj -->TASK#5
+
+<br><br>
+<strong>Aufgabe Nummer 5</strong><!-- laglaglaglaglaglaglaglaglaglaglaglag --> <br>
+Hugo Llloris war die Nummer 1 im Tor von Frankreich. Aber wer war die Nummer 2? <br>
+
+<br><br>
+<span id="a">anonym@server</span>:<span id="b">~</span><span id="c">$</span> <input placeholder="Antwort bitte tippen" type="text" name="answer" id="answer"> <br>
