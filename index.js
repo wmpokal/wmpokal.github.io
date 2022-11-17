@@ -86,6 +86,11 @@ var Typer = {
           if(e.which === 13){
             var val = $(this).val();
             console.log(task);
+            if (task == 0) {
+              if (val == "start") {
+                window.location.href = "task1.html";
+              }
+            }
             if (task == 1) {
               if (val == "Jesùs Corona") {
                 window.location.href = "task2.html";
@@ -134,7 +139,7 @@ function replaceUrls(text) {
   }
 }
 
-Typer.speed = 1;
+Typer.speed = 2;
 if (task == 0) {
   Typer.file = 'WmPokal.txt';
 }

@@ -49,6 +49,7 @@ a {
 
 input {
 	background: black;
+	width: 500px;
 	border: black;
 	color: #0f0;
 	font-family: courier, monospace;

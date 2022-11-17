@@ -20,6 +20,8 @@ Um in Ruhe das Geld zu holen und zu verschwinden, werde ich euch wohl ein bissch
 <span class="k">KEINE ELTERN!!!</span>
 
 <br><br>
-Wenn ihr den Pokal finden wollt, müsst ihr euch gut mit Fußball auskennen… oder wissen, wo man suchen muss… oder wen man fragen kann. Ha, ha, ha, ihr habt eh keine Chance; aber versuchen kann man es ja mal. Passt auf… erste Aufgabe: <br>
+Wenn ihr den Pokal finden wollt, müsst ihr euch gut mit Fußball auskennen… oder wissen, wo man suchen muss… oder wen man fragen kann. Ha, ha, ha, ihr habt eh keine Chance; aber versuchen kann man es ja mal. <br>
 <!-- longlonglongcomment -->
-<span id="a">anonym@server</span>:<span id="b">~</span><span id="c">$</span> <a href="task1.html"><strong>Zum Start von Aufgabe 1 klicken</strong></a>
+
+<br>
+<span id="a">anonym@server</span>:<span id="b">~</span><span id="c">$</span> <input placeholder="start eingeben und ENTER drücken" type="text" name="answer" id="answer"> <br>
