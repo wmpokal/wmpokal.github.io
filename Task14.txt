@@ -1,0 +1,4 @@
+<strong>Aufgabe Nummer 11, Frage 2/3</strong><!-- laglaglaglaglaglaglaglaglaglaglaglag -->
+
+<br><br>
+<span id="a">anonym@server</span>:<span id="b">~</span><span id="c">$</span> <input placeholder="2. aufstrebende ______" type="text" name="answer" id="answer"> <br>

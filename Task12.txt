@@ -1,0 +1,9 @@
+<span id="a">anonym@server</span>:<span id="b">~</span><span id="c">$</span> Ich bin echt beeindruckt. 
+<span id="a">anonym@server</span>:<span id="b">~</span><span id="c">$</span> start <!-- kjsdfhkjdhsfkjdshfkj -->TASK#10
+
+<br><br>
+<strong>Aufgabe Nummer 10</strong><!-- laglaglaglaglaglaglaglaglaglaglaglag --> <br>
+Jetzt addiert ihr die vier Jahreszahlen und gebt hier die letzte Zahl ein:<br>
+
+<br><br>
+<span id="a">anonym@server</span>:<span id="b">~</span><span id="c">$</span> <input placeholder="Antwort bitte tippen" type="text" name="answer" id="answer"> <br>

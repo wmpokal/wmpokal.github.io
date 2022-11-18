@@ -88,82 +88,117 @@ var Typer = {
             console.log(task);
             if (task == 0) {
               if (val == "start" || val == "Start") {
-                window.location.href = "task1.html";
+                window.location.href = "fashjer.html";
               }
             }
             if (task == 1) {
               if (val == "Jesùs Corona") {
-                window.location.href = "task2.html";
+                window.location.href = "khjaso.html";
               } else {
                 alert(val + " ist falsch!! HA HAA");
               }
             }
             if (task == 2) {
               if (val == "Makoto Hasebe") {
-                window.location.href = "task3.html";
+                window.location.href = "oqjnkdsl.html";
               } else {
                 alert(val + " ist falsch!! HA HAA");
               }
             }
             if (task == 3) {
               if (val == "Shinji Kagawa") {
-                window.location.href = "task4.html";
+                window.location.href = "qwdniqwd.html";
               } else {
                 alert(val + " ist falsch!! HA HAA");
               }
             }
             if (task == 4) {
               if (val == "64") {
-                window.location.href = "task5.html";
+                window.location.href = "quuuqu.html";
               } else {
                 alert(val + " ist falsch!! HA HAA");
               }
             }
             if (task == 5) {
               if (val == "Steve Mandanda") {
-                window.location.href = "task6.html";
+                window.location.href = "iqiiqiiqiiqii.html";
               } else {
                 alert(val + " ist falsch!! HA HAA");
               }
             }
             if (task == 6) {
               if (val == "Schweiz") {
-                window.location.href = "task7.html";
+                window.location.href = "uiiiiiii.html";
               } else {
                 alert(val + " ist falsch!! HA HAA");
               }
             }
             if (task == 7) {
               if (val == "62") {
-                window.location.href = "task8.html";
+                window.location.href = "zzzzzzzzzz.html";
               } else {
                 alert(val + " ist falsch!! HA HAA");
               }
             }
             if (task == 8) {
               if (val == "2") {
-                window.location.href = "task9.html";
+                window.location.href = "kqwjmelkbn.html";
               } else {
                 alert(val + " ist falsch!! HA HAA");
               }
             }
             if (task == 9) {
               if (val == "1954,1974,1990,2014" || val == "1954, 1974, 1990, 2014") {
-                window.location.href = "task10.html";
+                window.location.href = "fjkqkvn.html";
               } else {
                 alert(val + " ist falsch!! HA HAA");
               }
             }
             if (task == 10) {
               if (val == "Sepp Herberger,Helmut Schön,Franz Beckenbauer,Joachim Löw" || val == "Sepp Herberger, Helmut Schön, Franz Beckenbauer, Joachim Löw") {
-                window.location.href = "task11.html";
+                window.location.href = "oiqbwb.html";
               } else {
                 alert(val + " ist falsch!! HA HAA");
               }
             }
             if (task == 11) {
               if (val == "Ungarn,Niederlande,Argentinien,Argentinien" || val == "Ungarn, Niederlande, Argentinien, Argentinien") {
-                window.location.href = "task12.html";
+                window.location.href = "qweibqweqw.html";
+              } else {
+                alert(val + " ist falsch!! HA HAA");
+              }
+            }
+            if (task == 12) {
+              if (val == "2") {
+                window.location.href = "qouwge.html";
+              } else {
+                alert(val + " ist falsch!! HA HAA");
+              }
+            }
+            if (task == 13) {
+              if (val == "CULTURA" || val == "cultura" || val == "Cultura") {
+                window.location.href = "uquqwui.html";
+              } else {
+                alert(val + " ist falsch!! HA HAA");
+              }
+            }
+            if (task == 14) {
+              if (val == "ULTRAS" || val == "ultras" || val == "Ultras") {
+                window.location.href = "toigtaogb.html";
+              } else {
+                alert(val + " ist falsch!! HA HAA");
+              }
+            }
+            if (task == 15) {
+              if (val == "Fc Köln" || val == "FC KÖLN" || val == "fc köln") {
+                window.location.href = "luhefg.html";
+              } else {
+                alert(val + " ist falsch!! HA HAA");
+              }
+            }
+            if (task == 16) {
+              if (val == "1") {
+                window.location.href = "qefiufqelguqfl.html";
               } else {
                 alert(val + " ist falsch!! HA HAA");
               }
@@ -231,6 +266,24 @@ if (task == 10) {
 }
 if (task == 11) {
   Typer.file = 'Task11.txt';
+}
+if (task == 12) {
+  Typer.file = 'Task12.txt';
+}
+if (task == 13) {
+  Typer.file = 'Task13.txt';
+}
+if (task == 14) {
+  Typer.file = 'Task14.txt';
+}
+if (task == 15) {
+  Typer.file = 'Task15.txt';
+}
+if (task == 16) {
+  Typer.file = 'Task16.txt';
+}
+if (task == 17) {
+  Typer.file = 'Task17.txt';
 }
 Typer.init();
 

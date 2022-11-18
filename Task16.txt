@@ -1,0 +1,8 @@
+<span id="a">anonym@server</span>:<span id="b">~</span><span id="c">$</span> start <!-- kjsdfhkjdhsfkjdshfkj -->TASK#12
+
+<br><br>
+<strong>Aufgabe Nummer 12</strong><!-- laglaglaglaglaglaglaglaglaglaglaglag --> <br>
+Das war SEHR GUT und das bedeutet in der Schule, ihr bekommt als Note eine…<br>
+
+<br><br>
+<span id="a">anonym@server</span>:<span id="b">~</span><span id="c">$</span> <input placeholder="Antwort bitte tippen" type="text" name="answer" id="answer"> <br>
